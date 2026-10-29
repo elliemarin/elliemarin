@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ellie Marin · Diseño de moda y confección</title>
+  <desc id="desc">Portada en crema y terracota con trazos de un patrón de costura. Del boceto a la puntada. De la idea a una app.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d9cbbc" stroke-width="1" opacity=".35"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="16" fill="#f5efe6"/>
+  <path d="M823 0H1264Q1280 0 1280 16V404Q1280 420 1264 420H823Z" fill="#e8d4c4"/>
+  <path d="M823 0H1280V420H823Z" fill="url(#grid)"/>
+  <path d="M28 28H1252V392H28Z" fill="none" stroke="#bba48f" stroke-dasharray="5 7" opacity=".65"/>
+  <g fill="#4c3b32">
+    <text x="68" y="78" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5">ELLIE MARIN</text>
+    <text x="64" y="174" font-family="Georgia, 'Times New Roman', serif" font-size="63">Diseño de moda</text>
+    <text x="64" y="246" font-family="Georgia, 'Times New Roman', serif" font-size="63" font-style="italic">&amp; confección</text>
+  </g>
+  <path d="M68 285H132" stroke="#a35c44" stroke-width="3"/>
+  <text x="68" y="330" fill="#6a574c" font-family="Arial, Helvetica, sans-serif" font-size="21">Del boceto a la puntada. De la idea a una app.</text>
+  <text x="68" y="368" fill="#806c5e" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">@ELLIEMARIN</text>
+  <g transform="translate(843 34)">
+    <circle cx="198" cy="171" r="146" fill="#f5efe6" opacity=".5"/>
+    <g fill="none" stroke="#7e4938" stroke-width="2" stroke-linejoin="round">
+      <path d="M166 49Q198 78 230 49L279 69Q263 109 285 145L252 162L250 206L291 302Q202 332 111 302L149 206L145 162L112 145Q134 108 118 69Z" fill="#f6eee5"/>
+      <path d="M166 49Q198 78 230 49" stroke-width="3"/>
+      <path d="M149 206Q200 218 250 206M145 162Q198 175 252 162" stroke="#b48e76"/>
+      <path d="M166 49L176 156L166 205M230 49L221 156L233 207M169 215L149 309M231 215L254 310" stroke="#b48e76" stroke-width="1.5"/>
+      <path d="M120 296Q201 322 282 297M126 74Q144 105 121 141M271 74Q252 110 276 142" stroke-dasharray="5 5" stroke="#b48e76" stroke-width="1.2"/>
+      <path d="M198 93V289" stroke-dasharray="7 7" stroke="#a35c44" stroke-width="1.2"/>
+      <path d="M193 101L198 91L203 101M193 281L198 291L203 281" stroke="#a35c44" stroke-width="1.2"/>
+    </g>
+    <g fill="none" stroke="#946f59" stroke-width="1.2">
+      <path d="M83 206H310M83 201V211M310 201V211"/>
+      <circle cx="96" cy="82" r="4"/><path d="M96 89V115M83 102H109"/>
+      <path d="M309 260H342M326 244V277"/>
+    </g>
+    <text x="198" y="355" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#7e4938" font-size="12" letter-spacing="4">MODA · CREATIVIDAD · TECNOLOGÍA</text>
+  </g>
+</svg>
+
